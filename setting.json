@@ -1,8 +1,8 @@
 {
-  "name-web":"SUMBER ILMU",
-  "author":"ABAH",
+  "name-web":"ABI SEHAT",
+  "author":"ABI",
   "remove-comment-html":true,
-  "target":"https://hargadepo.com",
+  "target":"https://hellosehat.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
