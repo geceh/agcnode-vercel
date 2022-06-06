@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abi-sehat.vercel.app/sitemap.xml
+Sitemap: https://abisehat.vercel.app/sitemap.xml
